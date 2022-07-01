@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Axin的博客</title>
+  <icon>http://sleepyaxin.github.io/icon.png</icon>
+  <subtitle>一个死宅&amp;废柴</subtitle>
+  <link href="http://sleepyaxin.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://sleepyaxin.github.io/"/>
+  <updated>2022-06-24T02:10:25.194Z</updated>
+  <id>http://sleepyaxin.github.io/</id>
+  
+  <author>
+    <name>Axin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://sleepyaxin.github.io/2022/06/22/hello-world/"/>
+    <id>http://sleepyaxin.github.io/2022/06/22/hello-world/</id>
+    <published>2022-06-22T06:10:39.793Z</published>
+    <updated>2022-06-24T02:10:25.194Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
