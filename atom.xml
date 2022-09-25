@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Axin</title>
+  <icon>http://sleepyaxin.github.io/icon.png</icon>
+  <subtitle>柠月如风</subtitle>
+  <link href="http://sleepyaxin.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://sleepyaxin.github.io/"/>
+  <updated>2022-09-25T12:27:05.429Z</updated>
+  <id>http://sleepyaxin.github.io/</id>
+  
+  <author>
+    <name>Axin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不想卷了</title>
+    <link href="http://sleepyaxin.github.io/2022/09/25/%E4%B8%8D%E6%83%B3%E5%8D%B7%E4%BA%86/"/>
+    <id>http://sleepyaxin.github.io/2022/09/25/%E4%B8%8D%E6%83%B3%E5%8D%B7%E4%BA%86/</id>
+    <published>2022-09-25T12:26:43.000Z</published>
+    <updated>2022-09-25T12:27:05.429Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;你卷你妈呢</summary>
+    
+    
+    
+    <category term="日常摆烂" scheme="http://sleepyaxin.github.io/categories/%E6%97%A5%E5%B8%B8%E6%91%86%E7%83%82/"/>
+    
+    
+    <category term="学习" scheme="http://sleepyaxin.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+</feed>
